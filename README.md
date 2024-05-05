@@ -13,6 +13,6 @@ Given a set of N datapoints x1, x2, . . . , xN ∈ Rd , the goal is to group the
 
 3: Compute the normalized similarity W.
 
-4: Find Hn×k that solves: min <sub>H≥0</sub>||W − HH<sup>T</sup>||<sup>2</sup> <sub>F</sub> .
+4: Find H<sub>n×k</sub> that solves: min <sub>H≥0</sub>||W − HH<sup>T</sup>||<sup>2</sup> <sub>F</sub> .
 
  
