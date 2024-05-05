@@ -8,8 +8,11 @@ Given a set of N datapoints x1, x2, . . . , xN ∈ Rd , the goal is to group the
 
  ## SymNMF Algorithm
 1: Form the similarity matrix A from X.
+
 2: Compute the Diagonal Degree Matrix.
+
 3: Compute the normalized similarity W.
+
 4: Find Hn×k that solves: min <sub>H≥0</sub>||W − HH<sup>T</sup>||<sup>2</sup> <sub>F</sub> .
 
  
