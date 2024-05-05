@@ -71,7 +71,7 @@ Make script for building symnmf executable, considering all it’s dependency. T
 command should include all the flags: `gcc -ansi -Wall -Wextra -Werror -pedantic-errors`.
 
 ### Build and Running
-The extension must build cleanly (no errors, no warnings) when running the following
+The extension will build when running the following
 command: `python3 setup.py build_ext --inplace`.
 After successful build, the program can run.
 
