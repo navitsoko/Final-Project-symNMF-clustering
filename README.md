@@ -1,4 +1,4 @@
-# Final-Project-symNMF-clustering
+# Final Project symNMF clustering
 Implementation of  a clustering algorithm that is based on symmetric Non-negative Matrix Factorization (symNMF).
 Appplying it to several datasets and comparing to K-means, using Python C API wrapper.
 ## k-means
